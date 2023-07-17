@@ -1,5 +1,4 @@
-"""Lab 3. Olympic Tweet Analysis
-"""
+
 import sys, string
 import os
 import socket
